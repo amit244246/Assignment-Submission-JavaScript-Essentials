@@ -5,3 +5,5 @@
 # Day-3 JavaScript Essentials Assignment 2 Submitted
 
 # Day-4 JavaScript Essentials Assignment 3 Submitted
+
+# Dy-6 JavaScript Essentials Final Project Submitted
